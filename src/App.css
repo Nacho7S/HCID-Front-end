@@ -1,0 +1,5 @@
+.card:hover {
+transform: scale(1.09); 
+border-color: black;
+transition: .4s ease-in-out;
+}

@@ -1,0 +1,1 @@
+export const BASE_URLS = 'https://amber-clam-cuff.cyclic.cloud/user'
